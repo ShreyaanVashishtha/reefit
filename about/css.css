@@ -3,12 +3,12 @@ html{
      
 }
 .container{
-    background: #000000;
+    background: 'white';
 }
  
 .our-team{
     padding: 20px 15px 30px;
-    background: #fff;
+    background: #000000;
     border-radius: 15px;
     text-align: center;
 }
