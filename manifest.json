@@ -1,0 +1,15 @@
+{
+  "background_color": "none",
+  "description": "Reintroduce Fitness in your life with Reefit!",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Reefit",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Reefit",
+  "start_url": "/",
+  "theme_color": "#0b0a30",
+  "categories": [],
+  "screenshots": [],
+  "shortcuts": []
+}
