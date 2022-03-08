@@ -6,6 +6,18 @@
   "name": "Reefit",
   "orientation": "any",
   "scope": "/",
+  "icons": [
+    {
+      "src": "/images/logo/reefit-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo/reefit-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
   "short_name": "Reefit",
   "start_url": "/",
   "theme_color": "#0b0a30",
