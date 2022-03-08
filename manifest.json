@@ -2,7 +2,7 @@
   "background_color": "none",
   "description": "Reintroduce Fitness in your life with Reefit!",
   "dir": "ltr",
-  "display": "fullscreen",
+  "display": "standalone",
   "name": "Reefit",
   "orientation": "any",
   "scope": "/",
