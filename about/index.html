@@ -106,42 +106,15 @@
           color: white;
           {
       .btn {
-  border-radius: 4px;
-  background-color: #f4511e;
+  background-color: #4CAF50;
+  /* Green */
   border: none;
-  color: #FFFFFF;
+  color: white;
+  padding: 15px 32px;
   text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
-  transition: all 0.5s;
-  cursor: pointer;
-  margin: 5px;
-}
-
-.btn span {
-  cursor: pointer;
+  text-decoration: none;
   display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.btn span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.btn:hover span {
-  padding-right: 25px;
-}
-
-.btn:hover span:after {
-  opacity: 1;
-  right: 0;
+  font-size: 16px;
 }
   </style>
 </head>
@@ -182,7 +155,7 @@
         </div>
     </div>
 </div>
-<button class="btn"><span>Hover </span></button>
-</body>
+<button type="button" class="btn">Button</button>
+    </body>
 
 </html>
