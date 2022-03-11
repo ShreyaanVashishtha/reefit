@@ -9,6 +9,7 @@
   border: 5px solid #008CBA;
   border-radius: 8px;
   padding: 15px 32px;
+  text-align: center;
 }
 
 .button:hover {
@@ -16,6 +17,7 @@
   color: white;
   border-radius: 8px;
   padding: 15px 32px;
+  text-align: center;
 }
 
 html{
